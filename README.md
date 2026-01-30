@@ -8,9 +8,13 @@ Ele mostra métricas, gráficos e tabelas sobre um conjunto de filmes, permitind
 ## 🚀 Tecnologias usadas
 
 <a href="#"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=pandas" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=plotly" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=streamlit" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=pycharm" width="40"/></a>
 
 ---
-| Desenvolvido por **Raycka Castro** com <a href="#"><img src="https://skillicons.dev/icons?i=pycharm" width="40"/></a>
+
+![Pandas](https://img.shields.io/badge/-Data-150458?logo=pandas&logoColor=white&label=) 
+![Plotly](https://img.shields.io/badge/-Charts-3f4f75?logo=plotly&logoColor=white&label=) 
+![Streamlit](https://img.shields.io/badge/-App-FF4B4B?logo=streamlit&logoColor=white&label=)
+
+---
+| Desenvolvido por **Raycka Castro** com *PyCharm*
