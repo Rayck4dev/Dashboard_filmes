@@ -6,10 +6,12 @@ Ele mostra métricas, gráficos e tabelas sobre um conjunto de filmes, permitind
 ---
 
 ## 🚀 Tecnologias usadas
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3f4f75?logo=plotly&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
+
+![Python](https://img.shields.io/badge/-3.12-000?logo=python&logoColor=white&label=)
+![Pandas](https://img.shields.io/badge/-Data-150458?logo=pandas&logoColor=white&label=)
+![Plotly](https://img.shields.io/badge/-Charts-3f4f75?logo=plotly&logoColor=white&label=)
+![Streamlit](https://img.shields.io/badge/-App-FF4B4B?logo=streamlit&logoColor=white&label=)
+![PyCharm](https://img.shields.io/badge/-IDE-000?logo=pycharm&logoColor=white&label=)
 
 ---
-| Desenvolvido por Raycka Castro
+| Desenvolvido por **Raycka Castro** com **PyCharm**
