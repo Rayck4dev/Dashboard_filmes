@@ -7,6 +7,8 @@ Ele mostra métricas, gráficos e tabelas sobre um conjunto de filmes, permitind
 
 ## 🚀 Tecnologias usadas
 
+<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
+
 ![Python](https://img.shields.io/badge/-3.12-000?logo=python&logoColor=white&label=)
 ![Pandas](https://img.shields.io/badge/-Data-150458?logo=pandas&logoColor=white&label=)
 ![Plotly](https://img.shields.io/badge/-Charts-3f4f75?logo=plotly&logoColor=white&label=)
