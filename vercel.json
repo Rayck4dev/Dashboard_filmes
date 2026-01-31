@@ -1,8 +1,6 @@
 {
-  "builds": [
-    { "src": "app.py", "use": "@vercel/python" }
-  ],
+  "builds": [{ "src": "app.py", "use": "@vercel/python" }],
   "env": {
-    "TMDB_API_KEY": "@tmdb_api_key"
+    "TMDB_API_KEY": "TMDB_API_KEY"
   }
 }
