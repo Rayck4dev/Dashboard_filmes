@@ -12,4 +12,4 @@ Ele mostra métricas, gráficos e tabelas sobre um conjunto de filmes, permitind
 <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="40"/></a>
 
 ---
-| Desenvolvido por **Raycka Castro** com *PyCharm*
+| Desenvolvido por **Raycka Castro** 
