@@ -1,9 +1,8 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import streamlit as st 
 import tmdbsimple as tmdb
-from dotenv import load_dotenv
-import os
 
 # --- Configuração da página ---
 st.set_page_config(page_title="🎬 Dashboard de Filmes", layout="wide")
@@ -33,9 +32,7 @@ st.markdown(
 )
 
 # --- Carregar chave da API ---
-load_dotenv()
-API_KEY = os.getenv("TMDB_API_KEY")
-tmdb.API_KEY = API_KEY
+tmdb.API_KEY = st.secrets["TMDB_API_KEY"]
 
 # --- Sidebar ---
 st.sidebar.header("🎥 Filtros")
